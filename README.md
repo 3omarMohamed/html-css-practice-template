@@ -7,7 +7,7 @@ The goal of this project was to improve my HTML & CSS skills by rebuilding a rea
 
 ## 🚀 Live Demo
 
-(Add your live link here later)
+https://3omarmohamed.github.io/html-css-practice-template/
 
 ## 🛠️ Technologies Used
 
